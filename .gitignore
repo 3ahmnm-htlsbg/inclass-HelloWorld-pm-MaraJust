@@ -7,6 +7,12 @@
 [Pp]ackages/
 Assets/AssetStoreTools*
 
+# PlayMaker
+# * steht für beliebige Dateiendung: ob .meta oder anderes
+Assets/Gizmos*
+Assets/PlayMaker*
+Assets/Plugins*
+
 # Visual Studio cache directory
 .vs/
 
